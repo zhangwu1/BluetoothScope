@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="T">
+        <item>1us</item>
+        <item>2us</item>
+        <item>5us</item>
+        <item>10us</item>
+        <item>20us</item>
+    </string-array>
+
+    <string-array name="V">
+        <item>500mV</item>
+        <item>1V</item>
+        <item>2V</item>
+        <item>5V</item>
+    </string-array>
+</resources>
